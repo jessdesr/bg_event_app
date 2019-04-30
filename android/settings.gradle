@@ -1,0 +1,3 @@
+rootProject.name = 'bg_event_app'
+
+include ':app'
